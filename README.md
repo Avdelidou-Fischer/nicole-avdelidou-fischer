@@ -11,3 +11,9 @@ This is the official profile image used across professional networks, including 
 This image is an official author portrait associated with the political commentary essay written by Dr. Nicole Avdelidou-Fischer for the Democracy Seminar.
 
 ![Dr. Nicole Avdelidou-Fischer - Democracy Seminar Essay Portrait](nicole-avdelidou-fischer-democracy-seminar.jpg)
+
+## Professional Profiles
+
+- **ORCID:** [0009-0005-5449-5744](https://orcid.org/0009-0005-5449-5744)
+- **ResearchGate:** [Dr. Nicole Avdelidou-Fischer](https://www.researchgate.net/profile/Nicole-Avdelidou-Fischer)
+- **LinkedIn:** [Dr. Nicole Avdelidou-Fischer](https://www.linkedin.com/in/nicole-avdelidou-fischer-223627434/)
